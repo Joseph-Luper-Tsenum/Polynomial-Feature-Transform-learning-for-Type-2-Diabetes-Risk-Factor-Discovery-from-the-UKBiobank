@@ -1,4 +1,4 @@
-### Polynomial Feature Transform learning for Type 2 Diabetes Risk Factor Discovery by integrating omics and non-omics (OnO) data from the UKBiobank
+### Polynomial Feature Transform learning for Type 2 Diabetes Risk Factor Discovery by integrating genetic and non-genetic data from the UKBiobank
 
 Health disparities
 
